@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malinda Sampath</h1>
 <h3 align="center">I'm a passionate and driven 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐔𝐧𝐝𝐞𝐫𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 at the 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐎𝐟 𝐑𝐮𝐡𝐮𝐧𝐚. My journey in tech began with a fascination for how software can transform ideas into reality, and this passion has only grown stronger over the years.</h3>
 
+- 📫 How to reach me **malindasampath45@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/malinda-sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malinda-sampath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
