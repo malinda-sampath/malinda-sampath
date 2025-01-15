@@ -116,11 +116,10 @@ I aim to craft impactful software that solves real-world problems, creating tech
 </p>
 
 ---
-
+<!--
 ## <p align="center">GitHub Stats</p>
 
 <p align="center">
-  <!-- Stats (start) -->
   <table align="center">
       <td width="50%" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=malinda-sampath&theme=dark&show_icons=true&count_private=true" />
@@ -131,13 +130,11 @@ I aim to craft impactful software that solves real-world problems, creating tech
 <td width="50%" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=malinda-sampath&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
 </td>
-
-
   </table>
 </p>
 
 ---
-
+-->
 <!-- ## <p align="center">Connect with Me</p>
 
 <p align="center">
