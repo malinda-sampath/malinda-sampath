@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Malinda+Sampath;"></a>
     
-<h3 align="center">Full-Stack Developer | Crafting Software for Real-World Challenges</h3>
+<h3 align="center">Full-Stack Developer | Crafting Software for Real-World Challenges | <br> Computer Science(UG) | University of Ruhuna</h3>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malinda-sampath&label=Profile%20views&color=green&style=flat" alt="malinda-sampath" />
