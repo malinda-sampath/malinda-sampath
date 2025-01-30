@@ -21,7 +21,7 @@ I am **Malinda Sampath**, a passionate Full-Stack Developer dedicated to creatin
 - **Backend Development**: Building robust and secure applications with Java and C#.
 - **Frontend Development**: Designing dynamic, responsive interfaces using React and modern web standards.
 - **Database Management**: Proficient in **MySQL** and **MSSQL** for efficient and scalable data handling.
-- **DevOps**: Comfortable with deploying and managing projects on **Linux-based** cloud servers (e.g., DigitalOcean).
+<!--- **DevOps**: Comfortable with deploying and managing projects on **Linux-based** cloud servers (e.g., DigitalOcean).-->
 
 #### **Mission**
 
