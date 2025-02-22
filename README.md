@@ -14,7 +14,7 @@
 
 ## <p align="center">About Me</p>
 
-I am **Malinda Sampath**, a passionate **Backend Developer** dedicated to building scalable and efficient software solutions. With expertise in **Spring Boot**, **Java**, **C#**, and **Docker**, I focus on developing robust backend systems that power modern applications.  
+I am **Malinda Sampath**, a passionate **Backend Developer** dedicated to building scalable and efficient software solutions. With expertise in **Spring Boot**, **Java** and  **C#**, I focus on developing robust backend systems that power modern applications.  
 
 #### **Expertise**  
 
