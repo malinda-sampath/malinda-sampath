@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=600&height=100&lines=Hi,I'm+Malinda+Sampath;"></a>
     
-<h3 align="center">Full-Stack Developer | Crafting Software for Real-World Challenges | <br> Computer Science(UG) | University of Ruhuna</h3>
+<h3 align="center">Backend Developer | Crafting Software for Real-World Challenges | <br> Computer Science(UG) | University of Ruhuna</h3>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=malinda-sampath&label=Profile%20views&color=green&style=flat" alt="malinda-sampath" />
@@ -14,23 +14,25 @@
 
 ## <p align="center">About Me</p>
 
-I am **Malinda Sampath**, a passionate Full-Stack Developer dedicated to creating innovative and scalable solutions. With expertise in modern technologies such as **Spring Boot**, **React**, **Java**, and **C#**, I strive to develop software that effectively bridges the gap between complex technology and seamless user experiences.
+I am **Malinda Sampath**, a passionate **Backend Developer** dedicated to building scalable and efficient software solutions. With expertise in **Spring Boot**, **Java**, **C#**, and **Docker**, I focus on developing robust backend systems that power modern applications.  
 
-#### **Expertise**
+#### **Expertise**  
 
-- **Backend Development**: Building robust and secure applications with Java and C#.
-- **Frontend Development**: Designing dynamic, responsive interfaces using React and modern web standards.
-- **Database Management**: Proficient in **MySQL** and **MSSQL** for efficient and scalable data handling.
-<!--- **DevOps**: Comfortable with deploying and managing projects on **Linux-based** cloud servers (e.g., DigitalOcean).-->
+- **Backend Development**: Designing and implementing secure, high-performance applications with **Spring Boot** and **Java**.  
+- **Database Management**: Experienced in **MySQL**, **PostgreSQL**, and **MSSQL** for efficient data handling.  
+- **DevOps & Cloud**: Familiar with **Docker** for containerized deployments and managing applications on **Linux-based cloud servers (DigitalOcean)**.  
+- **Cloud Computing**: Exploring cloud-based solutions for scalable and resilient application deployments.  
+- **Frontend Basics**: Some familiarity with **React** for building dynamic user interfaces when needed.  
 
-#### **Mission**
+#### **Mission**  
 
-I aim to craft impactful software that solves real-world problems, creating technology solutions that empower businesses and communities to thrive.
+I am committed to **solving real-world challenges** through well-architected backend solutions. My goal is to develop impactful software that enhances businesses and communities, ensuring technology remains both powerful and accessible.  
 
-#### **Current Focus**
+#### **Current Focus**  
 
-- Expanding my knowledge in **Spring Boot** and **React**.
-- Improving expertise in **full-stack development** and **cloud-based deployments**.
+- Developing a **barcode-based mail tracking system** using **Spring Boot, MySQL**, and **microservices architecture**.  
+- Strengthening expertise in **CI/CD pipelines using GitHub Actions** to automate software delivery.  
+- Optimizing **containerized deployments and software deployment strategies using Docker**.  
 
 ---
 
