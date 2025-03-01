@@ -30,7 +30,7 @@ I am committed to **solving real-world challenges** through well-architected bac
 
 #### **Current Focus**  
 
-- Developing a **barcode-based mail tracking system** using **Spring Boot, MySQL**, and **microservices architecture**.  
+- Developing a **barcode-based mail tracking system** using **Spring Boot, MySQL**, and **React**.  
 - Strengthening expertise in **CI/CD pipelines using GitHub Actions** to automate software delivery.  
 - Optimizing **containerized deployments and software deployment strategies using Docker**.  
 
