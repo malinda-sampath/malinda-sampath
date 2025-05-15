@@ -30,9 +30,11 @@ I am committed to **solving real-world challenges** through well-architected bac
 
 #### **Current Focus**  
 
-- Developing a **barcode-based mail tracking system** using **Spring Boot, MySQL**, and **React**.  
+- Developing an **online library system(Readoria)** using **Spring Boot microservices** and **PostgreSQL.**
+- Optimizing containerized deployments and exploring **Kubernetes** for orchestration.
 - Strengthening expertise in **CI/CD pipelines using GitHub Actions** to automate software delivery.  
-- Optimizing **containerized deployments and software deployment strategies using Docker**.  
+- Optimizing **containerized deployments and software deployment strategies using Docker**.
+- Exploring **best practices** in software development, authentication, and monitoring.
 
 ---
 
